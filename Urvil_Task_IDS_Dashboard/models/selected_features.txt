@@ -1,0 +1,10 @@
+Destination Port
+Flow Duration
+Total Fwd Packets
+Total Backward Packets
+Fwd Packet Length Max
+Bwd Packet Length Max
+Flow Bytes/s
+Flow Packets/s
+Packet Length Mean
+Average Packet Size
